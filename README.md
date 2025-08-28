@@ -44,8 +44,6 @@
 ---
 
 ### 📌 Featured Projects
-- 💳 [Responsive Pricing Card](https://github.com/apekshasingh0/pro-plan-card-tailwind)  
-- 📸 [Responsive Photo Gallery](https://github.com/apekshasingh0/photo-gallery)  
 - 📖 [Facebook Story Page](https://apekshasingh0.github.io/facebook-story/)  
 
 ---
